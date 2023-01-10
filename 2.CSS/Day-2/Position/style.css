@@ -1,0 +1,15 @@
+.box{
+    /* border: 1px solid black;
+    position: relative;
+    left: 50px;
+    top: 50px; */
+    
+}
+
+.divc{
+    position: sticky;
+    border: 1px solid green;
+    top: 5px;
+    left: 5px;
+    background-color: aquamarine;
+}
